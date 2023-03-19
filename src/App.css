@@ -1,0 +1,21 @@
+.App{
+  min-height: 100vh;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.Clippeddrawer{  
+  width: 100%;
+  height: 100%;
+}
+.Content{
+margin:10px;
+padding: 10px;
+display: flex;
+flex-direction: column;
+position: absolute;
+width: 80%;
+top: 20%;
+right: 4%;
+}
